@@ -100,7 +100,7 @@ class Grafo {
     }
 }
 
-public class BuscadeGrafo{
+public class BuscaEmGrafo{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         try {
