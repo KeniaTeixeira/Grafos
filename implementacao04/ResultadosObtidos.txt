@@ -1,0 +1,230 @@
+=============== GRAFO COM 500 vertices ===============
+vértice de origem: 1
+vértice de destino: 500
+
+Fluxo máximo: 39
+Quantidade de caminhos disjuntos em arestas: 4
+Caminhos encontrados:
+Caminho: 1 -> 98 -> 42 -> 500
+Caminho: 1 -> 217 -> 296 -> 388 -> 500
+Caminho: 1 -> 6 -> 110 -> 384 -> 500
+Caminho: 1 -> 461 -> 279 -> 220 -> 176 -> 500
+Tempo de execução: 28,3743 ms
+
+
+=============== GRAFO COM 1000 vertices ===============
+vértice de origem: 1
+vértice de destino: 1000
+
+Fluxo máximo: 126
+Quantidade de caminhos disjuntos em arestas: 12
+Caminhos encontrados:
+Caminho: 1 -> 787 -> 100
+Caminho: 1 -> 681 -> 67 -> 1000
+Caminho: 1 -> 139 -> 887 -> 1000
+Caminho: 1 -> 253 -> 383 -> 357 -> 1000
+Caminho: 1 -> 484 -> 860 -> 546 -> 1000
+Caminho: 1 -> 898 -> 549 -> 463 -> 1000
+Caminho: 1 -> 372 -> 870 -> 404 -> 1000
+Caminho: 1 -> 438 -> 739 -> 808 -> 1000
+Caminho: 1 -> 665 -> 924 -> 135 -> 1000
+Caminho: 1 -> 354 -> 88 -> 265 -> 1000
+Caminho: 1 -> 903 -> 480 -> 321 -> 291 -> 1000
+Caminho: 1 -> 276 -> 706 -> 722 -> 672 -> 94 -> 1000
+Tempo de execução: 164,5091 ms
+
+
+=============== GRAFO COM 3000 vertices ===============
+vértice de origem: 1
+vértice de destino: 3000
+
+Fluxo máximo: 82
+Quantidade de caminhos disjuntos em arestas: 7
+Caminhos encontrados:
+Caminho: 1 -> 1341 -> 2111 -> 39 -> 3000
+Caminho: 1 -> 897 -> 2596 -> 535 -> 565 -> 3000
+Caminho: 1 -> 910 -> 2916 -> 2010 -> 2824 -> 3000
+Caminho: 1 -> 1291 -> 1580 -> 361 -> 969 -> 3000
+Caminho: 1 -> 2011 -> 2801 -> 391 -> 2718 -> 3000
+Caminho: 1 -> 2277 -> 2542 -> 21 -> 1664 -> 1522 -> 3000
+Caminho: 1 -> 1222 -> 2618 -> 463 -> 2089 -> 2844 -> 3000
+Tempo de execução: 206,3376 ms
+
+
+=============== GRAFO COM 5000 vertices ===============
+vértice de origem: 1
+vértice de destino: 5000
+
+Fluxo máximo: 64
+Quantidade de caminhos disjuntos em arestas: 7
+Caminhos encontrados:
+Caminho: 1 -> 209 -> 3177 -> 5000
+Caminho: 1 -> 3558 -> 2988 -> 469 -> 5000
+Caminho: 1 -> 4297 -> 4073 -> 24 -> 804 -> 5000
+Caminho: 1 -> 4525 -> 2996 -> 3978 -> 638 -> 5000
+Caminho: 1 -> 2093 -> 1748 -> 311 -> 820 -> 5000
+Caminho: 1 -> 749 -> 3006 -> 4069 -> 2460 -> 5000
+Caminho: 1 -> 3268 -> 4365 -> 4655 -> 572 -> 4568 -> 5000
+Tempo de execução: 438,8475 ms
+
+
+=============== GRAFO COM 10000 vertices ===============
+Digite o vértice de origem: 1
+Digite o vértice de destino: 10000
+
+Fluxo máximo: 102
+Quantidade de caminhos disjuntos em arestas: 9
+Caminhos encontrados:
+Caminho: 1 -> 8049 -> 9620 -> 2797 -> 10000
+Caminho: 1 -> 496 -> 2329 -> 9815 -> 10000
+Caminho: 1 -> 7496 -> 9829 -> 6256 -> 10000
+Caminho: 1 -> 6294 -> 8222 -> 4172 -> 2845 -> 10000
+Caminho: 1 -> 3669 -> 8280 -> 5201 -> 956 -> 10000
+Caminho: 1 -> 3381 -> 6241 -> 3868 -> 2250 -> 10000
+Caminho: 1 -> 3874 -> 3598 -> 9320 -> 315 -> 10000
+Caminho: 1 -> 9788 -> 2217 -> 4283 -> 240 -> 10000
+Caminho: 1 -> 5504 -> 6530 -> 1157 -> 519 -> 2027 -> 10000
+Tempo de execução: 1872,5555 ms
+
+
+============================== GRAFOS BIPARTIDOS ==============================
+=============== GRAFO COM 500 vertices ===============
+vértice de origem: 1
+vértice de destino: 400
+
+Fluxo máximo: 130
+Quantidade de caminhos disjuntos em arestas: 11
+Caminhos encontrados:
+Caminho: 1 -> 62 -> 400
+Caminho: 1 -> 54 -> 400
+Caminho: 1 -> 126 -> 400
+Caminho: 1 -> 98 -> 400
+Caminho: 1 -> 167 -> 400
+Caminho: 1 -> 29 -> 400
+Caminho: 1 -> 140 -> 400
+Caminho: 1 -> 234 -> 400
+Caminho: 1 -> 222 -> 400
+Caminho: 1 -> 118 -> 400
+Caminho: 1 -> 163 -> 400
+Tempo de execução: 89,8707 ms
+
+
+=============== GRAFO COM 1000 vertices ===============
+vértice de origem: 1  
+vértice de destino: 800
+
+Fluxo máximo: 204
+Quantidade de caminhos disjuntos em arestas: 23
+Caminhos encontrados:
+Caminho: 1 -> 99 -> 800
+Caminho: 1 -> 373 -> 800
+Caminho: 1 -> 65 -> 800
+Caminho: 1 -> 226 -> 800
+Caminho: 1 -> 471 -> 800
+Caminho: 1 -> 432 -> 800
+Caminho: 1 -> 23 -> 800
+Caminho: 1 -> 193 -> 800
+Caminho: 1 -> 486 -> 800
+Caminho: 1 -> 479 -> 800
+Caminho: 1 -> 371 -> 800
+Caminho: 1 -> 66 -> 800
+Caminho: 1 -> 100 -> 800
+Caminho: 1 -> 161 -> 800
+Caminho: 1 -> 399 -> 800
+Caminho: 1 -> 396 -> 800
+Caminho: 1 -> 2 -> 800
+Caminho: 1 -> 148 -> 800
+Caminho: 1 -> 330 -> 800
+Caminho: 1 -> 247 -> 800
+Caminho: 1 -> 411 -> 800
+Caminho: 1 -> 463 -> 800
+Caminho: 1 -> 6 -> 800
+Tempo de execução: 101,0160 ms
+
+
+=============== GRAFO COM 3000 vertices ===============
+vértice de origem: 1
+vértice de destino: 2000
+
+Fluxo máximo: 196
+Quantidade de caminhos disjuntos em arestas: 22
+Caminhos encontrados:
+Caminho: 1 -> 794 -> 2000
+Caminho: 1 -> 827 -> 2000
+Caminho: 1 -> 1190 -> 2000
+Caminho: 1 -> 116 -> 2000
+Caminho: 1 -> 1486 -> 2000
+Caminho: 1 -> 1447 -> 2000
+Caminho: 1 -> 925 -> 2000
+Caminho: 1 -> 1273 -> 2000
+Caminho: 1 -> 799 -> 2000
+Caminho: 1 -> 107 -> 2000
+Caminho: 1 -> 1238 -> 2000
+Caminho: 1 -> 1197 -> 2000
+Caminho: 1 -> 1200 -> 2000
+Caminho: 1 -> 1337 -> 2000
+Caminho: 1 -> 623 -> 2000
+Caminho: 1 -> 1331 -> 2000
+Caminho: 1 -> 310 -> 2000
+Caminho: 1 -> 820 -> 2000
+Caminho: 1 -> 899 -> 2000
+Caminho: 1 -> 27 -> 2000
+Caminho: 1 -> 485 -> 2000
+Caminho: 1 -> 672 -> 2000
+Tempo de execução: 186,6518 ms
+
+
+=============== GRAFO COM 5000 vertices ===============
+vértice de origem: 1
+vértice de destino: 4000
+
+Fluxo máximo: 123
+Quantidade de caminhos disjuntos em arestas: 17
+Caminhos encontrados:
+Caminho: 1 -> 2219 -> 4000
+Caminho: 1 -> 2481 -> 4000
+Caminho: 1 -> 202 -> 4000
+Caminho: 1 -> 65 -> 4000
+Caminho: 1 -> 222 -> 4000
+Caminho: 1 -> 606 -> 4000
+Caminho: 1 -> 1025 -> 4000
+Caminho: 1 -> 257 -> 4000
+Caminho: 1 -> 160 -> 4000
+Caminho: 1 -> 793 -> 4000
+Caminho: 1 -> 1488 -> 4000
+Caminho: 1 -> 2102 -> 4000
+Caminho: 1 -> 2115 -> 4000
+Caminho: 1 -> 1998 -> 4000
+Caminho: 1 -> 784 -> 4000
+Caminho: 1 -> 189 -> 4000
+Caminho: 1 -> 975 -> 4000
+Tempo de execução: 362,2188 ms
+
+
+=============== GRAFO COM 10000 vertices ===============
+vértice de origem: 1
+vértice de destino: 9000
+
+Fluxo máximo: 143
+Quantidade de caminhos disjuntos em arestas: 19
+Caminhos encontrados:
+Caminho: 1 -> 4333 -> 9000
+Caminho: 1 -> 2033 -> 9000
+Caminho: 1 -> 1853 -> 9000
+Caminho: 1 -> 932 -> 9000
+Caminho: 1 -> 1281 -> 9000
+Caminho: 1 -> 3513 -> 9000
+Caminho: 1 -> 3774 -> 9000
+Caminho: 1 -> 3895 -> 9000
+Caminho: 1 -> 2402 -> 9000
+Caminho: 1 -> 4777 -> 9000
+Caminho: 1 -> 2426 -> 9000
+Caminho: 1 -> 642 -> 9000
+Caminho: 1 -> 2826 -> 9000
+Caminho: 1 -> 475 -> 9000
+Caminho: 1 -> 589 -> 9000
+Caminho: 1 -> 2000 -> 9000
+Caminho: 1 -> 180 -> 9000
+Caminho: 1 -> 3547 -> 9000
+Caminho: 1 -> 1171 -> 9000
+Tempo de execução: 2193,3929 ms
